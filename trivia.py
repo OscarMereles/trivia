@@ -10,3 +10,4 @@ if (segunda=="B" or segunda=="b"):
 tercero=input("Que estructura sirve para repetir ciclos indefinidamente? A: while   B: for      C:if    D: input")
 if (tercero=="A" or tercero=="a"):
     puntos+=1
+    
